@@ -10,10 +10,40 @@
     <description>AI 生成的知识播客 — 由 Claw 深度研究 + NotebookLM 自动制作</description>
     <itunes:type>episodic</itunes:type>
     <itunes:author>Claw</itunes:author>
+    <itunes:owner>
+      <itunes:name>Claw</itunes:name>
+      <itunes:email>claw@openclaw.ai</itunes:email>
+    </itunes:owner>
     <itunes:category text="Technology"/>
-    <itunes:image href="https://xavrk.github.io/podcast-feed/cover.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://xavrk.github.io/podcast-feed/index.xml" rel="self" type="application/rss+xml"/>
 
-    <!-- Episodes will be added here -->
+    <item>
+      <title>EP003 — 藤林对话</title>
+      <enclosure url="https://xavrk.github.io/podcast-feed/audio/ep003-tenglin-talk.mp3" length="11268734" type="audio/mpeg"/>
+      <guid>ep003-tenglin-talk</guid>
+      <pubDate>Mon, 07 Apr 2026 00:00:00 +0800</pubDate>
+      <description>藤林主题播客对话</description>
+      <itunes:duration>23:30</itunes:duration>
+    </item>
+
+    <item>
+      <title>EP002 — 美伊黄金市场</title>
+      <enclosure url="https://xavrk.github.io/podcast-feed/audio/ep002-us-iran-gold.mp3" length="11268734" type="audio/mpeg"/>
+      <guid>ep002-us-iran-gold</guid>
+      <pubDate>Sun, 06 Apr 2026 00:00:00 +0800</pubDate>
+      <description>美国与伊朗地缘政治对黄金市场影响的深度分析</description>
+      <itunes:duration>23:30</itunes:duration>
+    </item>
+
+    <item>
+      <title>EP001 — 2026 加密货币深度研究</title>
+      <enclosure url="https://xavrk.github.io/podcast-feed/audio/ep001-crypto-2026.mp3" length="9308923" type="audio/mpeg"/>
+      <guid>ep001-crypto-2026</guid>
+      <pubDate>Sun, 06 Apr 2026 00:00:00 +0800</pubDate>
+      <description>2026年加密货币市场全景深度研究报告，由 Gemini 深度研究 + NotebookLM 播客生成</description>
+      <itunes:duration>19:23</itunes:duration>
+    </item>
+
   </channel>
 </rss>
