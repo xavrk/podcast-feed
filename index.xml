@@ -19,6 +19,15 @@
     <atom:link href="https://xavrk.github.io/podcast-feed/index.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>EP005 — Hermes Agent 深度调研</title>
+      <enclosure url="https://xavrk.github.io/podcast-feed/audio/ep005-hermes-agent-evaluation.mp3" length="11245537" type="audio/mpeg"/>
+      <guid>ep005-hermes-agent-evaluation</guid>
+      <pubDate>Wed, 08 Apr 2026 07:11:00 +0800</pubDate>
+      <description>Hermes Agent 功能解析、Discord 集成能力、与 OpenClaw 的迁移评估</description>
+      <itunes:duration>23:25</itunes:duration>
+    </item>
+
+    <item>
       <title>EP004 — F-15E 伊朗坠机与史诗级救援</title>
       <enclosure url="https://xavrk.github.io/podcast-feed/audio/ep004-f15e-iran-rescue.mp3" length="6562723" type="audio/mpeg"/>
       <guid>ep004-f15e-iran-rescue</guid>
