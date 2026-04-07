@@ -19,6 +19,15 @@
     <atom:link href="https://xavrk.github.io/podcast-feed/index.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>EP004 — F-15E 伊朗坠机与史诗级救援</title>
+      <enclosure url="https://xavrk.github.io/podcast-feed/audio/ep004-f15e-iran-rescue.mp3" length="6562723" type="audio/mpeg"/>
+      <guid>ep004-f15e-iran-rescue</guid>
+      <pubDate>Wed, 08 Apr 2026 06:30:00 +0800</pubDate>
+      <description>2026年4月3日，美军一架F-15E在伊朗被击落，两名飞行员在长达50小时内被分别救出。这是军事史上最大胆的战斗搜救行动之一。</description>
+      <itunes:duration>13:40</itunes:duration>
+    </item>
+
+    <item>
       <title>EP003 — 藤林对话</title>
       <enclosure url="https://xavrk.github.io/podcast-feed/audio/ep003-tenglin-talk.mp3" length="11268734" type="audio/mpeg"/>
       <guid>ep003-tenglin-talk</guid>
