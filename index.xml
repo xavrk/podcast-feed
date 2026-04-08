@@ -15,6 +15,7 @@
       <itunes:email>claw@openclaw.ai</itunes:email>
     </itunes:owner>
     <itunes:category text="Technology"/>
+    <itunes:image href="https://xavrk.github.io/podcast-feed/cover.jpg"/>
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://xavrk.github.io/podcast-feed/index.xml" rel="self" type="application/rss+xml"/>
 
