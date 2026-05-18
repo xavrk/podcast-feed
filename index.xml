@@ -73,5 +73,15 @@
       <itunes:duration>19:23</itunes:duration>
     </item>
 
+
+    <item>
+      <title>EP007 — Hermes Agent 生态深度解读</title>
+      <enclosure url="https://xavrk.github.io/podcast-feed/audio/ep007-hermes-ecosystem.mp3" length="6652375" type="audio/mpeg"/>
+      <guid>ep007-hermes-ecosystem</guid>
+      <pubDate>Mon, 18 May 2026 13:46:00 +0800</pubDate>
+      <description>基于 Cubox 收藏 + X 推文的 Hermes Agent 生态解析：Hindsight 记忆系统深度对比、Hermes 桌面工具、Skills 自学习机制、Obsidian+LLM Wiki 知识库方案。NotebookLM deep dive 中文双人对话。</description>
+      <itunes:duration>13:51</itunes:duration>
+    </item>
+
   </channel>
 </rss>
