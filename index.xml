@@ -83,5 +83,15 @@
       <itunes:duration>13:51</itunes:duration>
     </item>
 
+
+    <item>
+      <title>EP008 — Claude Code Workflow — Anthropic 的多 Agent 编排革命</title>
+      <enclosure url="https://xavrk.github.io/podcast-feed/audio/ep008-claude-code-workflow.mp3" length="10295516" type="audio/mpeg"/>
+      <guid>ep008-claude-code-workflow</guid>
+      <pubDate>Mon, 25 May 2026 14:41:43 +0800</pubDate>
+      <description>深度解读 Anthropic 最新偷藏的 Claude Code Workflow 工具：8 个 TypeScript 原语、3 个调度 5 个管 UX、DAG 不再由人画、LLM 自己写代码编排子 Agent。从 Dify/n8n 的反向设计，到 pipeline/parallel/barrier 的控制流哲学。</description>
+      <itunes:duration>21:26</itunes:duration>
+    </item>
+
   </channel>
 </rss>
