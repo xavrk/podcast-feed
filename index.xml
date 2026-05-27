@@ -122,5 +122,15 @@
       <itunes:duration>6:18</itunes:duration>
     </item>
 
+
+    <item>
+      <title>EP012 — 每日简报 90%语速</title>
+      <enclosure url="https://xavrk.github.io/podcast-feed/audio/ep012-daily-brief-90pct-2026-05-27.mp3" length="1132272" type="audio/mpeg"/>
+      <guid>ep012-daily-brief-90pct-2026-05-27</guid>
+      <pubDate>Wed, 27 May 2026 18:43:49 +0800</pubDate>
+      <description>90%语速 — 各位好，今天是五月二十七号，每日简报。  先看系统运行状态。  Hermes 和 OpenClaw 两个 Agent 都在线。Discord、Telegram、飞书三条通道畅通。Hermes 版本更新至 bb4703c，OpenClaw 是五月二十二号版本。  需要注意三件事。第一，Discord Bot Token 返回 403，无法通过 API 审计频道状态，但 Gateway 通信正常，不影</description>
+      <itunes:duration>3:8</itunes:duration>
+    </item>
+
   </channel>
 </rss>
