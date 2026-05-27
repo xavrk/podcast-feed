@@ -112,5 +112,15 @@
       <itunes:duration>2:24</itunes:duration>
     </item>
 
+
+    <item>
+      <title>EP011 — 每日简报 2026-05-27</title>
+      <enclosure url="https://xavrk.github.io/podcast-feed/audio/ep011-daily-brief-2026-05-27.mp3" length="2273184" type="audio/mpeg"/>
+      <guid>ep011-daily-brief-2026-05-27</guid>
+      <pubDate>Wed, 27 May 2026 18:08:39 +0800</pubDate>
+      <description>早上好 Michael，今天是 5 月 27 日，星期三。以下是今日简报。  先说系统。  两个主力 Agent 都活着，Hermes 和 OpenClaw 进程正常，三大平台 Discord、Telegram、</description>
+      <itunes:duration>6:18</itunes:duration>
+    </item>
+
   </channel>
 </rss>
