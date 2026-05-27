@@ -93,5 +93,14 @@
       <itunes:duration>21:26</itunes:duration>
     </item>
 
+    <item>
+      <title>EP009 — 每日简报 2026-05-27</title>
+      <enclosure url="https://xavrk.github.io/podcast-feed/audio/ep009-daily-brief-2026-05-27.mp3" length="670752" type="audio/mpeg"/>
+      <guid>ep009-daily-brief-2026-05-27</guid>
+      <pubDate>Wed, 27 May 2026 11:43:21 +0800</pubDate>
+      <description>早上好，今天是5月27日星期二，以下是今日简报。  先看系统运行情况。Hermes和OpenClaw都在线，凌晨两点到七点之间有过短暂断连，已经自动恢复。版本方面，Hermes配置版本建议升级到v24，OpenClaw也有新版本可以更新。整体健康，磁盘用了百分之十二，内存swap偏高在百分之五十一，但都在正常范围。  再看知识库。Obsidian有二百零四个笔记文件，发现约二十五个断链，其中两个比</description>
+      <itunes:duration>1:51</itunes:duration>
+    </item>
+
   </channel>
 </rss>
