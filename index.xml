@@ -132,5 +132,13 @@
       <itunes:duration>3:8</itunes:duration>
     </item>
 
+    <item>
+      <title>EP013 — 每日简报 95%语速</title>
+      <enclosure url="https://xavrk.github.io/podcast-feed/audio/ep013-daily-brief-95pct-2026-05-27.mp3" length="891648" type="audio/mpeg"/>
+      <guid>ep013-daily-brief-95pct-2026-05-27</guid>
+      <pubDate>Wed, 27 May 2026 18:47:15 +0800</pubDate>
+      <description>95%语速 — 早上好，今天是5月27日星期二，以下是今日简报。  先看系统。  Hermes和OpenClaw网关运行正常，Discord、Telegram、飞书三个平台全部在线。Hermes处于最新提交，OpenClaw为五月二十二日版。  但过去24小时积累了一些问题。最突出的是GitHub Copilot令牌格式不兼容——传统令牌不被Copilot API接受，一天报了23次错误，需要更换为细粒度令牌。其</description>
+      <itunes:duration>2:28</itunes:duration>
+    </item>
   </channel>
 </rss>
