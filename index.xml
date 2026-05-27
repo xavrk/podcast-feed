@@ -102,5 +102,15 @@
       <itunes:duration>1:51</itunes:duration>
     </item>
 
+
+    <item>
+      <title>EP010 — 每日简报 测试</title>
+      <enclosure url="https://xavrk.github.io/podcast-feed/audio/ep010-daily-brief-2026-05-27.mp3" length="864576" type="audio/mpeg"/>
+      <guid>ep010-daily-brief-2026-05-27</guid>
+      <pubDate>Wed, 27 May 2026 17:52:23 +0800</pubDate>
+      <description>早上好，今天是5月27日星期三，以下是今日简报。</description>
+      <itunes:duration>2:24</itunes:duration>
+    </item>
+
   </channel>
 </rss>
