@@ -140,5 +140,15 @@
       <description>95%语速 — 早上好，今天是5月27日星期二，以下是今日简报。  先看系统。  Hermes和OpenClaw网关运行正常，Discord、Telegram、飞书三个平台全部在线。Hermes处于最新提交，OpenClaw为五月二十二日版。  但过去24小时积累了一些问题。最突出的是GitHub Copilot令牌格式不兼容——传统令牌不被Copilot API接受，一天报了23次错误，需要更换为细粒度令牌。其</description>
       <itunes:duration>2:28</itunes:duration>
     </item>
+
+    <item>
+      <title>EP014 — 每日简报 2026-05-28</title>
+      <enclosure url="https://xavrk.github.io/podcast-feed/audio/ep014-daily-brief-2026-05-28.mp3" length="1460304" type="audio/mpeg"/>
+      <guid>ep014-daily-brief-2026-05-28</guid>
+      <pubDate>Thu, 28 May 2026 08:02:56 +0800</pubDate>
+      <description>早上好 Michael，今天是5月28日星期四。以下是今日简报。  先说系统状态。Hermes和OpenClaw都在线，Discord、Telegram、飞书和微信四个平台全部连接正常。凌晨有过两次Discord短暂重连，Telegram也有一次网络抖动，但都自动恢复了，不用干预。需要关注的是Swap占用71%，这个偏高但暂时不紧急。OpenClaw当前版本是5月22号，可以升级到26号，不过现在</description>
+      <itunes:duration>4:03</itunes:duration>
+    </item>
+
   </channel>
 </rss>
