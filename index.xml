@@ -150,5 +150,15 @@
       <itunes:duration>4:03</itunes:duration>
     </item>
 
+
+    <item>
+      <title>EP015 — 每日简报 2026-05-29</title>
+      <enclosure url="https://xavrk.github.io/podcast-feed/audio/ep015-daily-brief-2026-05-29.mp3" length="1350288" type="audio/mpeg"/>
+      <guid>ep015-daily-brief-2026-05-29</guid>
+      <pubDate>Fri, 29 May 2026 08:02:55 +0800</pubDate>
+      <description>早上好 Michael，今天是 5 月 29 日星期五。以下是今日简报。  先看系统。Hermes 和 OpenClaw 双网关都在线超过 13 小时，四个平台全部连通正常。内存使用稳</description>
+      <itunes:duration>3:45</itunes:duration>
+    </item>
+
   </channel>
 </rss>
