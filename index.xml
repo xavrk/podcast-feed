@@ -160,5 +160,15 @@
       <itunes:duration>3:45</itunes:duration>
     </item>
 
+
+    <item>
+      <title>EP016 — 每日简报 2026-05-30</title>
+      <enclosure url="https://xavrk.github.io/podcast-feed/audio/ep016-daily-brief-2026-05-30.mp3" length="1370736" type="audio/mpeg"/>
+      <guid>ep016-daily-brief-2026-05-30</guid>
+      <pubDate>Sat, 30 May 2026 08:05:19 +0800</pubDate>
+      <description>早上好 Michael，今天是 5 月 30 日星期六。以下是今日简报。  先看系统。Hermes 和 OpenClaw 双网关都在线，频道全部正常连接。磁盘用了 43%，还有 110G 空余</description>
+      <itunes:duration>3:48</itunes:duration>
+    </item>
+
   </channel>
 </rss>
