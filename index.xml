@@ -170,5 +170,15 @@
       <itunes:duration>3:48</itunes:duration>
     </item>
 
+
+    <item>
+      <title>EP017 — 每日简报 2026-05-31</title>
+      <enclosure url="https://xavrk.github.io/podcast-feed/audio/ep017-daily-brief-2026-05-31.mp3" length="1508400" type="audio/mpeg"/>
+      <guid>ep017-daily-brief-2026-05-31</guid>
+      <pubDate>Sun, 31 May 2026 08:06:15 +0800</pubDate>
+      <description>早上好 Michael，今天是 5 月 31 日星期日。以下是今日简报。  先说系统状态。Hermes 和 OpenClaw 双网关都在线，Discord、Telegram、飞书、微信四个频道全部连通，没有掉线。这意味着周末早晨你的基础设施没出问题，可以放心。  但有一个值得注意的数据：swap 到了 52.7%。虽然还没跨过 70% 的警戒线，但前几天从 51% 涨上来的趋势要盯着。这意味着双网</description>
+      <itunes:duration>4:11</itunes:duration>
+    </item>
+
   </channel>
 </rss>
