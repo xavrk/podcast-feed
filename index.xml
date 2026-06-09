@@ -247,5 +247,14 @@
       <itunes:duration>21:48</itunes:duration>
     </item>
 
+    <item>
+      <title>EP024 — LOOP工程学全面解析</title>
+      <enclosure url="https://xavrk.github.io/podcast-feed/audio/ep024-loop-engineering.mp3" length="7669897" type="audio/mpeg"/>
+      <guid>ep024-loop-engineering</guid>
+      <pubDate>Tue, 09 Jun 2026 12:07:57 +0000</pubDate>
+      <description>从 Claude Code 创始人 Boris Cherny 的原始演讲，到 Anthropic 内部 Skills 最佳实践、Hermes + Hindsight 记忆系统实测、Claude Code 三种协作模式（Ultracode/Workflows/Agent Teams）对比、四种并行 Agent 方案——五篇文章合辑讲透 LOOP 工程学：人不写 prompt 了，人设计让 Agent 写 prompt 的系统。</description>
+      <itunes:duration>15:58</itunes:duration>
+    </item>
+
   </channel>
 </rss>
