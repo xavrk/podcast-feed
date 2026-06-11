@@ -19,6 +19,15 @@
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://xavrk.github.io/podcast-feed/index.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>EP27 — 每日简报 2026-06-11</title>
+      <enclosure url="https://xavrk.github.io/podcast-feed/audio/ep027-daily-briefing-2026-06-11.mp3" length="895392" type="audio/mpeg"/>
+      <guid>ep027-daily-briefing-2026-06-11</guid>
+      <pubDate>Thu, 11 Jun 2026 00:05:05 +0000</pubDate>
+      <description>早上好 Michael，现在是早上八点，Hermes 早间播报。 先看系统状态：Hermes 本体运行正常，Dashboard、WebUI 和 Hindsight API 都在线，API 余额也健康；但今天有两个黄灯要盯住，一个是 swap 已经到八成，另一个是 DNS 解析失败在过去二十四小时出现了三百多次，主要集中在 Edge TTS、OpenRouter 和 GitHub，还是很像 PassWall 直连和代理规则重叠的问题。 知识库这边，Obsidian 的 World 管道最近很活跃，六月九号摄入了十几条三十六氪和 Hacker News 资讯，并提炼出了“投资理念”和“美元周期”两个概念页。好的一面是外部信息输入已经跑起来了；卡点是转化率还低，World inbox 里仍有一批文章没有消化，synthesis 也还是空。飞书端更需要注意：行动多维表格已经停了七个多月，Work 表二十一条任务都没有状态值，基本成了任务</description>
+      <itunes:duration>00:02:29</itunes:duration>
+    </item>
+
+    <item>
       <title>EP26 — 每日简报 2026-06-10</title>
       <enclosure url="https://xavrk.github.io/podcast-feed/audio/ep026-daily-briefing-2026-06-10.mp3" length="1082736" type="audio/mpeg"/>
       <guid>ep026-daily-briefing-2026-06-10</guid>
