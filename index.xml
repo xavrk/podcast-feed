@@ -19,6 +19,14 @@
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://xavrk.github.io/podcast-feed/index.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>EP28 — 每日简报 2026-06-12</title>
+      <enclosure url="https://xavrk.github.io/podcast-feed/audio/ep028-daily-briefing-2026-06-12.mp3" length="1044000" type="audio/mpeg"/>
+      <guid>ep028-daily-briefing-2026-06-12</guid>
+      <pubDate>Fri, 12 Jun 2026 00:01:59 +0000</pubDate>
+      <description>Hermes 早间每日简报：系统运维、知识库诊断与外部世界动态。</description>
+      <itunes:duration>00:02:54</itunes:duration>
+    </item>
+    <item>
       <title>EP27 — 每日简报 2026-06-11</title>
       <enclosure url="https://xavrk.github.io/podcast-feed/audio/ep027-daily-briefing-2026-06-11.mp3" length="895392" type="audio/mpeg"/>
       <guid>ep027-daily-briefing-2026-06-11</guid>
