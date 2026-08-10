@@ -322,5 +322,15 @@
       <itunes:duration>15:58</itunes:duration>
     </item>
 
+
+    <item>
+      <title>EP034 — 科技早报播客 2026-08-10（豆包AI生成）</title>
+      <enclosure url="https://xavrk.github.io/podcast-feed/audio/ep034-doubao-brief-2026-08-10.mp3" length="10245933" type="audio/mpeg"/>
+      <guid>ep034-doubao-brief-2026-08-10</guid>
+      <pubDate>Mon, 10 Aug 2026 09:35:52 +0800</pubDate>
+      <description>豆包AI播客：苹果回应删除接入千问手册；央视曝光酒店评级消费陷阱；极氪回应充电场站车辆过热；小米成立具身智能与应用部；67岁农民误信AI推荐除草剂；iPhone折叠屏配色曝光；微软承认Win11需优化；SpaceX月球建厂计划；OpenAI取消免费版次数限制。</description>
+      <itunes:duration>10:40</itunes:duration>
+    </item>
+
   </channel>
 </rss>
