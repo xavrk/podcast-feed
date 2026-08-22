@@ -332,5 +332,14 @@
       <itunes:duration>10:40</itunes:duration>
     </item>
 
+    <item>
+      <title>EP035 — FDE入门到精通：八堂课学会将AI送进客户现场</title>
+      <enclosure url="https://xavrk.github.io/podcast-feed/audio/ep035-fde-mastery.mp3" length="16784332" type="audio/mpeg"/>
+      <guid>ep035-fde-mastery</guid>
+      <pubDate>Sun, 23 Aug 2026 05:00:00 +0800</pubDate>
+      <description>基于在线电子书《FDE入门到精通：八堂课学会将AI送进客户现场》全书的 NotebookLM 深度对谈：为什么AI越会写代码越需要人走进客户现场；FDE岗位从咨询时代到AI时代的历史；用二维图判断要不要招FDE；客户带来的是方案、FDE要找出问题；把公司隐性流程画出来；写代码前先说清楚不做什么；克制一次性做掉的冲动；把客户现场变成最高保真评测集；从编码Agent到软件工厂的验证循环；八位讲者的共识与争论，以及术语表与实践手册要点。</description>
+      <itunes:duration>34:57</itunes:duration>
+    </item>
+
   </channel>
 </rss>
